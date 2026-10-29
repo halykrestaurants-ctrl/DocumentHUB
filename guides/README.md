@@ -17,6 +17,7 @@
 
 ## r_keeper
 
+- [RKEEPER: внешнее меню для Halyk Рестораны](r_keeper/external-menu.md)
 - [Самостоятельное приобретение лицензии rkeeper](r_keeper/license-purchase.md)
 - [RKEEPER: добавление номера телефона сотрудника для чаевых](r_keeper/tips-employee-phone.md)
 
