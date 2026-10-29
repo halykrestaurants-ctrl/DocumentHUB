@@ -96,7 +96,7 @@ notion: https://app.notion.com/p/3e4433fe004781ee9fcdecb8ac3e5a53
 
 <b>Когда и как:</b> процедура создания и выбора меню для r\_keeper не описана — см. заглушку [RKEEPER: внешнее меню для Halyk Рестораны](../../guides/r_keeper/external-menu.md).
 
-> ⚠️ TODO: процедура не описана — уточнить у инженера Halyk.
+> ⚠️ Инструкции по меню для r_keeper пока нет — обратитесь к инженеру Halyk.
 
 ---
 

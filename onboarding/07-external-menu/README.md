@@ -23,7 +23,7 @@
 | Poster | **Этап 3** — на портале после входа в аккаунт Poster | [Внешнее меню POSTER](../../guides/poster/external-menu.md) |
 | ROSTA | **Этап 3** — в ROSTA Mobile Office при подключении интеграции | [ROSTA: продуктовое меню](../../guides/rosta/external-menu.md) |
 | Paloma365 | **Этап 2** — в плагине Halyk Рестораны на кассе | [Внешнее меню Paloma365](../../guides/paloma365/external-menu.md) |
-| r\_keeper | ⚠️ TODO: процедура не описана — уточнить у инженера Halyk | [RKEEPER: внешнее меню (заглушка)](../../guides/r_keeper/external-menu.md) |
+| r\_keeper | ⚠️ Инструкции пока нет — обратитесь к инженеру Halyk | [RKEEPER: внешнее меню (заглушка)](../../guides/r_keeper/external-menu.md) |
 
 ## Шаг API-ключа на портале
 
